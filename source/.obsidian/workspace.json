@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "562b540b55a2dff3",
+    "type": "split",
+    "children": [
+      {
+        "id": "24e0d65e1fcc0918",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d77330da154a060d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "749fabfce7db421d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3562f49ba038b4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99143faf52493be5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11b26a551a99bd0d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "574d683f28f1155e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Quote/Curry-Blake/Gods-Word/Final-Authority",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 350.5
+  },
+  "right": {
+    "id": "47f6d5e893fea601",
+    "type": "split",
+    "children": [
+      {
+        "id": "3259329272df05b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b405fe1354b6092d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "820fb3ad72542a4b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40caeb424e6119c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d3d7dcfd97bee4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "68790ba7591053d0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8886300c76c3398a",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {}
+            }
+          },
+          {
+            "id": "b59d2924cca6b8e5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "random-note:Open random note": false,
+      "janitor:Janitor: scan vault": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-wordy:Wordy view": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-omnivore:Omnivore": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "d77330da154a060d",
+  "lastOpenFiles": [
+    "obsidian/extended obsidian.md",
+    "obsidian/basic-obsidian.md",
+    "obsidian/assets/tux.png",
+    "obsidian/assets",
+    "_templates/doc-template.md",
+    "markdown/extended-markdown.md",
+    "basic-obsidian.md",
+    "obsidian",
+    "markdown/basic-markdown.md",
+    "Markdown Syntax.md",
+    "callouts.md",
+    "Quotes/God's Word Final Authority.md",
+    "Quotes/Test Local Quotes.md",
+    "Home.md",
+    "00 - Inbox/Book of Affirmations.md",
+    "Projects/Book of Affirmations/Prosperity and Abundance.md",
+    "Projects/Book of Affirmations/6 Basic Affirmations.md",
+    "Projects/Book of Affirmations/Authority of Believers.md",
+    "Projects/Book of Affirmations/Spiritual Warfare.md",
+    "Projects/Book of Affirmations/Divine Health.md",
+    "Projects/Book of Affirmations/Mind Renewal.md",
+    "Projects/Book of Affirmations/New Man - Who I am IN CHRIST.md",
+    "Projects/Book of Affirmations/Salvation.md",
+    "Projects/Book of Affirmations/Victory.md",
+    "00 - Inbox/Divine Healing Course.md",
+    "00 - Inbox/Spiritual Warfare Course.md",
+    "00 - Inbox/The New Man Course.md",
+    "00 - Inbox/The Kingdom of Heaven is Like .md",
+    "00 - Inbox/The Anointing.md",
+    "[[Projects/Book of Affirmations",
+    "[[Projects",
+    "Projects/Book of Affirmations",
+    "Projects/The Anointing",
+    "Projects/Power of God",
+    "Projects/Believers Authority Course",
+    "Projects/Mind Renewal Course",
+    "Projects/The New Man Course",
+    "0 - Inbox/Bible Study/Assets/Pasted image 20230706003305.png",
+    "3 - Resources/Dreams/@Hannah - Dream Images/2023-07-24 - IMG_3955.jpg",
+    "3 - Resources/Dreams/@Hannah - Dream Images/2023-07-24 - IMG_3954.jpg",
+    "3 - Resources/Library/Health/Fasting/Assets/6-Styles-of-Fasting.jpg",
+    "3 - Resources/Library/Health/Lymphedema/Assets/Pasted image 20230716000605.png",
+    "3 - Resources/Library/Health/Lymphedema/Assets/Pasted image 20230716000549.png",
+    "3 - Resources/Library/Health/Lymphedema/Assets/Pasted image 20230715214541.png",
+    "3 - Resources/Library/Health/Lymphedema/Assets/Pasted image 20230715214356.png",
+    "3 - Resources/Library/Health/Lymphedema/Assets/Pasted image 20230715214023.png",
+    "1 - Projects/Danny Hatcher Bundle/00 - BUNDLED VAULTS/Mid-23/Danny/Other/DH.canvas",
+    "1 - Projects/Danny Hatcher Bundle/00 - BUNDLED VAULTS/Database folder template/Notes/Home.canvas",
+    "1 - Projects/Danny Hatcher Bundle/00 - BUNDLED VAULTS/Academic-Vault/Notes/Home.canvas",
+    "1 - Projects/Danny Hatcher Bundle/00 - BUNDLED VAULTS/Obsidian - Danny Hatcher - Base Vault - No Community plugins/Home Search.canvas",
+    "1 - Projects/Danny Hatcher Bundle/00 - BUNDLED VAULTS/Obsidian - Danny Hatcher - Base Vault - No Community plugins/Home Cards.canvas",
+    "1 - Projects/Danny Hatcher Bundle/Home.canvas"
+  ]
+}
